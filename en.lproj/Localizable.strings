@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  FetchList_SwiftUI
+
+  Created by Geetika Gupta on 27/09/23.
+  
+*/
+
+
+"million %lld" = "%lld Million";
+
+"the_club%@%@%lld" = "The club %@ from %@ is worth %lld million euros";

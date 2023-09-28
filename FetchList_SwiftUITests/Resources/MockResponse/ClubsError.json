@@ -1,0 +1,16 @@
+[{
+  "id": "e06096c1-73d7-4d0a-91ee-dc095aa4e743",
+  "name": "Bayern München",
+  "country": "Deutschland",
+  "value": 760,
+  "image": "https://public.allaboutapps.at/hiring/images/bayern-munich.png",
+  "european_titles": 5,
+  "stadium": {
+    "size": 75021,
+    "name": "Allianz Arena"
+  },
+  "location": {
+    "lat": 48.21891,
+    "lng": 11.62459
+  }
+}]
